@@ -1,7 +1,5 @@
 <h1  align="center">  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! </h1>
 
-
-
 - 👋 Hi, I’m @Ravenblaze128
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning ... Unity and trying to survive Engineering
